@@ -1,0 +1,26 @@
+﻿body {
+    font-family: Arial;
+    background-color: #fafafa;
+}
+
+.grid {
+    width: 80%;
+    margin: 40px auto;
+    border-collapse: collapse;
+}
+
+    .grid th {
+        background-color: #0078D7;
+        color: white;
+        padding: 10px;
+    }
+
+    .grid td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+    }
+
+button {
+    padding: 6px 10px;
+    margin-right: 5px;
+}

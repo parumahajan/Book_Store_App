@@ -1,0 +1,15 @@
+﻿body {
+    background-color: #fffdf5;
+}
+
+.grid {
+    width: 75%;
+    margin: auto;
+}
+
+button {
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    padding: 6px;
+}

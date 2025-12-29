@@ -1,0 +1,11 @@
+﻿Bookstore Application
+
+Using Webforms and Entity Framework 
+
+1) User Login
+2) Registration
+3) Show Books
+4) Add to Cart
+5) Add to Wishlist
+6) Place Order
+7) Order History

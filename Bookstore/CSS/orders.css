@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #f8f8f8;
+}
+
+.grid {
+    width: 70%;
+    margin: auto;
+}
+
+    .grid th {
+        background-color: #343a40;
+        color: white;
+    }

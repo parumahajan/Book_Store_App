@@ -1,0 +1,40 @@
+﻿body {
+    font-family: Arial;
+    background-color: #f4f6f9;
+}
+
+.admin-container {
+    width: 80%;
+    margin: 40px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    padding: 6px;
+    margin: 5px;
+}
+
+    button, input[type=submit] {
+        padding: 6px 12px;
+        margin: 5px;
+        background-color: #0078D7;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+.grid {
+    width: 100%;
+}
+
+.message {
+    display: block;
+    margin-top: 10px;
+    color: green;
+}
